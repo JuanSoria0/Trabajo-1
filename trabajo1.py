@@ -12,11 +12,5 @@ def fechaHoy():
 def salir():
     print("Saliendo del programa.")
 
-def multiplicacion():
-    numero1 = float(input("Ingresa el primer número: "))
-
-    numero2 = float(input("Ingresa el segundo número: "))
-
-    multiplicacion = numero1 * numero2
-
-    print("La multiplicación de ", numero1, " y ", numero2, " es ", multiplicacion)
+def numeroFavorito():
+    print("Mi número favorito es el 3")
