@@ -12,5 +12,6 @@ def fechaHoy():
 def salir():
     print("Saliendo del programa.")
 
+#parte Nehuen.
 def numeroFavorito():
     print("Mi número favorito es el 3")
