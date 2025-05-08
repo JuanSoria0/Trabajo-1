@@ -7,7 +7,7 @@ fecha_hoy = date.today()
 print("Fecha de hoy:", fecha_hoy)
 
 #parte Lucas
-print("Saliendo del programa.")
+def print("Saliendo del programa.")
 
 #parte pedro
 def colorfavorito():
