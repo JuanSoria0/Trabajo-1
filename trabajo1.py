@@ -10,8 +10,10 @@ print("Fecha de hoy:", fecha_hoy)
 def salir():
  print("Saliendo del programa.")
 
+#parte Nehuen.
+def numeroFavorito():
+    print("Mi número favorito es el 3")
+
 #parte pedro
 def colorfavorito():
     print("Mi color favorito es el azul")
-
-
