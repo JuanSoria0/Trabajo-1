@@ -3,8 +3,9 @@ from datetime import date
 def saludar():
     print("Hola, esta es la función de Juan.")
 #parte Esteban.
-fecha_hoy = date.today()
-print("Fecha de hoy:", fecha_hoy)
+def fechaHoy():
+    fecha_hoy = date.today()
+    print("Fecha de hoy:", fecha_hoy)
 
 #parte Lucas
 def salir():
