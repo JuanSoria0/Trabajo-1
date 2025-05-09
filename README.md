@@ -1,5 +1,5 @@
 # Trabajo-1
- El programa, saluda, imprime la fecha de hy, Imprime un texto, imprime un color e imprime un número.
+ El programa, saluda, imprime la fecha de hoy, Imprime un texto, imprime un color e imprime un número.
 
 ##Integrantes
 -Juan Soria - Función saludar
